@@ -1,0 +1,17 @@
+ul.a{
+    list-style-type: square;
+}
+h2{
+    text-align: left ;
+    text-indent: 1000 px;
+}
+h1{
+    text-indent: 10px;
+}
+img{
+    position:absolute;
+    right: 60%;
+    top: 2%;
+    left: 75%;
+   
+}
